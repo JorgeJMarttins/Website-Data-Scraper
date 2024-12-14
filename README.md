@@ -29,7 +29,7 @@ if data:
 else:
     print("Failed to fetch data from the API.")  # Printing error message if data is not fetched
 ```
-# Português ![Bandeira do Brasil](bandeira_brasil.svg)
+# Português ![Bandeira do Brasil](https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg)
 
 # **Raspador de Dados de Website**
 
