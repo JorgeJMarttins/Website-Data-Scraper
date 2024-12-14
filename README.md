@@ -29,8 +29,7 @@ if data:
 else:
     print("Failed to fetch data from the API.")  # Printing error message if data is not fetched
 ```
-# Português ![Bandeira do Brasil]([https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg](https://images.emojiterra.com/google/noto-emoji/v2.038/share/1f1e7-1f1f7.jpg))
-
+# Português :brazil_flag:
 # **Raspador de Dados de Website**
 
 Este projeto demonstra como buscar dados de uma API, processá-los e salvá-los em um arquivo CSV usando Python.
