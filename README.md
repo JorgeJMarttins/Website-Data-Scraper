@@ -1,4 +1,4 @@
-# English :eua:
+# English :us:
 # Website Data Scraper
 
 This project demonstrates how to fetch data from an API, process it, and save it to a CSV file using Python.
