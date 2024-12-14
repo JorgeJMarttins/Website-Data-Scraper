@@ -1,4 +1,4 @@
-# English
+# English :usa:
 # Website Data Scraper
 
 This project demonstrates how to fetch data from an API, process it, and save it to a CSV file using Python.
@@ -29,7 +29,7 @@ if data:
 else:
     print("Failed to fetch data from the API.")  # Printing error message if data is not fetched
 ```
-# Português :brazil_flag:
+# Português :brazil:
 # **Raspador de Dados de Website**
 
 Este projeto demonstra como buscar dados de uma API, processá-los e salvá-los em um arquivo CSV usando Python.
