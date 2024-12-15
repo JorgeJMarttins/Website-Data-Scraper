@@ -1,4 +1,4 @@
-# English :us:
+
 # Website Data Scraper
 
 This project demonstrates how to fetch data from an API, process it, and save it to a CSV file using Python.
@@ -28,37 +28,4 @@ if data:
     process_and_save_data(data, 'data.csv')  # Processing and saving the data to a CSV file
 else:
     print("Failed to fetch data from the API.")  # Printing error message if data is not fetched
-```
-# Português :brazil:
-# **Raspador de Dados de Website**
-
-Este projeto demonstra como buscar dados de uma API, processá-los e salvá-los em um arquivo CSV usando Python.
-
-## Requisitos
-
-- Python 3.x
-- Biblioteca `requests` para requisições HTTP
-- Biblioteca `pandas` para manipulação de dados
-
-## Instalação
-
-Para instalar as dependências necessárias, você pode usar o pip:
-```bash
-pip install requests pandas
-```
-
-## Uso
-
-1. Substitua `api_url` pelo endpoint real da API de onde você deseja buscar os dados.
-2. O script buscará os dados da API, processará e salvará em um arquivo CSV (`data.csv` por padrão).
-
-### Exemplo de Código
-
-```python
-api_url = 'https://api.example.com/data'  # URL do endpoint da API
-data = fetch_data(api_url)  # Buscando os dados da API
-if data:
-    process_and_save_data(data, 'data.csv')  # Processando e salvando os dados em um arquivo CSV
-else:
-    print("Falha ao buscar dados da API.")  # Imprimindo mensagem de erro caso não consiga buscar os dados
 ```
